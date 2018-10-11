@@ -12,35 +12,13 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "D:\Program Files develop\model\Cadence_Peng_xie_lib\sch_lib.olb"))
+      (Path "Design Resources" ".\sch_lib.olb")
+      (Select "Design Resources" ".\sch_lib.olb" "ATMEGA328P"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 422"))
-      (Tab 0))
-    (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 1708 0 469")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "5632 1394")
-        (Zoom "779"))
-      (Path "D:\PROGRAM FILES DEVELOP\MODEL\CADENCE_PENG_XIE_LIB\SCH_LIB.OLB")
-      (Package "SW"))
-    (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 150 1858 150 619")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "3322 817")
-        (Zoom "498"))
-      (Path "D:\PROGRAM FILES DEVELOP\MODEL\CADENCE_PENG_XIE_LIB\SCH_LIB.OLB")
-      (Package "r0902")))
-  (MPSSessionName "Lisa")
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 422"))
+      (Tab 0)))
+  (MPSSessionName "Elime-Alan")
   (ISPCBBASICLICENSE "false"))
