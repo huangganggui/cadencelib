@@ -12,13 +12,57 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\sch_lib.olb")
-      (Select "Design Resources" ".\sch_lib.olb" "ATMEGA328P"))
+      (Path "Design Resources"
+         "e:\workspace\hardwareworkspace\cadence_lib\sch_lib.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 200 0 422"))
-      (Tab 0)))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1714 78 537")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "1683 188")
+        (Zoom "240"))
+      (Path "E:\WORKSPACE\HARDWAREWORKSPACE\CADENCE_LIB\SCH_LIB.OLB")
+      (Package "MX1200"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 659 26 205")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "127 64")
+        (Zoom "144"))
+      (Path "E:\WORKSPACE\HARDWAREWORKSPACE\CADENCE_LIB\SCH_LIB.OLB")
+      (Package "ME6206A18M3"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 685 52 231")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "107 80")
+        (Zoom "144"))
+      (Path "E:\WORKSPACE\HARDWAREWORKSPACE\CADENCE_LIB\SCH_LIB.OLB")
+      (Package "KH25V1635"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 882 208 658")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "272 173")
+        (Zoom "190"))
+      (Path "E:\WORKSPACE\HARDWAREWORKSPACE\CADENCE_LIB\SCH_LIB.OLB")
+      (Package "EMW3092")))
   (MPSSessionName "Elime-Alan")
   (ISPCBBASICLICENSE "false"))
